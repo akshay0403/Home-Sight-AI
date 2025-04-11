@@ -7,15 +7,15 @@ This repository contains code for an AI-powered Real Estate Assistant applicatio
 This project utilizes generative AI and retrieval techniques to answer real estate-related queries in real time. By augmenting user prompts with domain-specific property information, the system provides clear, actionable insights for investors, homeowners, and agents. Custom CSS enhances the UI, while Gemini LLM ensures high-quality responses.
 
 # Introduction
-- The goal of this project is to develop an AI assistant that can:
+The goal of this project is to develop an AI assistant that can:
 
-- Answer real estate questions with up-to-date market insights.
+  - Answer real estate questions with up-to-date market insights.
 
-- Provide investment advice, rental trends, mortgage rate context, and development news.
+  - Provide investment advice, rental trends, mortgage rate context, and development news.
 
-- Present intelligent, context-aware responses using large language models.
+  - Present intelligent, context-aware responses using large language models.
 
-- Deliver results with a polished user interface using a modern CSS theme.
+  - Deliver results with a polished user interface using a modern CSS theme.
 
 # Problem Statement
 Real estate data is scattered across various platforms, often requiring manual filtering and deep understanding to extract meaningful insights. This assistant addresses the challenge by consolidating and summarizing complex information using AI to support better, faster decision-making.
